@@ -1,0 +1,472 @@
+/*XX-Large devices (X-large desktops, less than 1920px)*/
+@media only screen and (min-width: 1600px) and (max-width: 1920px){
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 1600px){
+.testimonialSec .testBody{margin: 10px 50px;height: 300px;}
+.testimonialSec .testBody img {width: auto;}
+.testimonialSec .testBody h4 {font-size: 20px!important;margin-bottom: 10px!important;}
+.testimonialSec .testBody p {font-size: 15px!important;}
+
+.modal-dialog {max-width: 60%;}
+.modal-dialog .modal-body .btn-close {top: -5px;right: -5px;width: 25px;height: 25px;}
+.modal-dialog .modal-body .btn-close:after {font-size: 15px;top: -8px;}
+.modal-dialog .modal-body .bannerForm h2 {text-align: center;}
+.modal-dialog .modal-body .bannerForm {padding: 2rem;}
+.modal-dialog .modal-body .bannerForm .form-group {margin-bottom: 0.5rem!important;}
+.modal-dialog .modal-body .bannerForm .form-control {height: 40px;}
+.modal-dialog .modal-body .bannerForm textarea {max-height: 70px;}
+.modal-dialog .modal-body .bannerForm .webBtn {font-size: 14px;padding: 7px 20px;}
+.modal-dialog .modal-body .modalContact {padding: 2rem 1rem 0rem 0;}
+.modal-dialog .modal-body .modalContact ul li {margin-bottom: 2rem;}
+.modal-dialog .modal-body .modalContact ul li i {width: 40px;height: 40px;font-size: 20px;padding: 11px 0;margin-bottom: 0.5rem;}
+.modal-dialog .modal-body .modalContact ul li span {font-size: 15px;}
+}
+
+/*X-Large devices (large desktops, less than 1400px)*/
+@media only screen and (min-width: 1200px) and (max-width: 1399px){
+.webBtn ,.webBtn2{font-size: 16px;padding: 10px 30px;}
+.bannerSec {padding: 5rem 0;}
+.bannerSec .bannerCntnt h1 {font-size: 40px;line-height: 50px;}
+.bannerSec .bannerCntnt {padding-left: 0;}
+.portfolioSec {padding: 3rem 0;}
+.portfolioSec .portfolioHead:before {border: 4px solid;border-image-source: radial-gradient(rgb(0 81 87 / 90%), rgb(0 117 126 / 90%));border-image-slice: 1;width: 8%;height: 40%;}
+.portfolioSec .portfolioHead h4 {font-size: 20px;}
+.portfolioSec .portfolioHead h2 {font-size: 30px!important;}
+.portfolioSec .portfolioHead p {font-size: 18px!important;}
+.portfolioSec .portfolio .img-2 {top: 5%;left: 10%;}
+.portfolioSec .portfolio .img-3 {top: 5%;right: 10%;}
+.portfolioSec .portfolio:hover .img-2 {transform: rotate(-5deg);left: 0;}
+.portfolioSec .portfolio:hover .img-3 {transform: rotate(5deg);right: 0;}
+.pricingSec {padding: 5rem 0;}
+.pricingSec .secHead h2 {font-size: 35px!important;}
+.customPkg {height: 550px;}
+.testimonialSec .testimonial {height: 250px;}
+.consultationSec {background-position: center;}
+.consultationSec .contactFormDet .detail {padding: 1.5rem;}
+.consultationSec .contactFormDet .detail li {padding-left: 2rem;}
+.consultationSec .contactFormDet .contactForm {padding: 2rem!important;}
+.footerCntnt h6 {font-size: 21px!important;}
+img#borer {height: 400px;}
+
+.modal-dialog {max-width: 60%;}
+.modal-dialog .modal-body .btn-close {top: -5px;right: -5px;width: 25px;height: 25px;}
+.modal-dialog .modal-body .btn-close:after {font-size: 15px;top: -8px;}
+.modal-dialog .modal-body .bannerForm h2 {text-align: center;}
+.modal-dialog .modal-body .bannerForm {padding: 2rem;}
+.modal-dialog .modal-body .bannerForm .form-group {margin-bottom: 0.5rem!important;}
+.modal-dialog .modal-body .bannerForm .form-control {height: 40px;}
+.modal-dialog .modal-body .bannerForm textarea {max-height: 70px;}
+.modal-dialog .modal-body .bannerForm .webBtn {font-size: 14px;padding: 7px 20px;}
+.modal-dialog .modal-body .modalContact {padding: 2rem 1rem 0rem 0;}
+.modal-dialog .modal-body .modalContact ul li {margin-bottom: 2rem;}
+.modal-dialog .modal-body .modalContact ul li i {width: 40px;height: 40px;font-size: 20px;padding: 11px 0;margin-bottom: 0.5rem;}
+.modal-dialog .modal-body .modalContact ul li span {font-size: 15px;}
+
+}
+
+ /*Large devices (desktops, less than 1200px)*/
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+.webBtn ,.webBtn2{font-size: 16px;padding: 10px 30px;}
+.bannerSec {padding: 5rem 0;}
+.bannerSec .col-lg-2 {width: 10%;}
+.bannerSec .col-lg-4 {width: 40%;}
+.bannerSec .bannerCntnt h1 {font-size: 40px;line-height: 50px;}
+.bannerSec .bannerCntnt {padding-left: 0;}
+.portfolioSec {padding: 3rem 0;}
+.portfolioSec .col-md-6 {width: 70%;}
+.portfolioSec .portfolioHead:before {width: 100px;height: 90px;}
+.portfolioSec .portfolioHead h4 {font-size: 20px;}
+.portfolioSec .portfolioHead h2 {font-size: 30px!important;}
+.portfolioSec .portfolioHead p {font-size: 18px!important;}
+.portfolioSec .portfolio .img-2 {top: 5%;left: 3%;}
+.portfolioSec .portfolio .img-3 {top: 5%;right: 3%;}
+.portfolioSec .portfolio:hover .img-2 {transform: rotate(-5deg);left: -5px;}
+.portfolioSec .portfolio:hover .img-3 {transform: rotate(5deg);right: -5px;}
+.pricingSec {padding: 5rem 0;}
+.pricingSec .secHead h2 {font-size: 30px!important;}
+.pricingSec .col-lg-3 {width: 33.3%;}
+.pricingSec .pricings {margin-bottom: 1.5rem;}
+.pricingSec .customPkg {height: 550px;}
+.brandingSec .brandingCntnt h2 {font-size: 25px!important;}
+.brandingSec .brandingImgs img {height: 100px;}
+.testimonialSec .testimonial {height: 300px;}
+.testimonialSec .testImg img {height: 100px;}
+.testimonialSec .slick-arrow:after {width: 40px;height: 40px;font-size: 18px;}
+.testimonialSec .slick-prev {right: 50px;}
+.consultationSec {background-position: center;}
+.consultationSec .col-lg-9 {width: 85%;}
+.consultationSec .contactFormDet .detail {padding: 1rem;}
+.consultationSec .contactFormDet .detail li {padding-left: 2rem;}
+.consultationSec .contactFormDet .contactForm {padding: 1rem!important;}
+footer .footerCntnt h6 {font-size: 18px!important;}
+footer .footerCntnt p, footer .footerCntnt li a {font-size: 14px;}
+.bottomRow {padding: 12px 0px!important;}
+.bottomRow p, .bottomRow li a {font-size: 14px!important;}
+img#borer {height: 270px;}
+.tns-carousel-label a {font-size: 13px!important;}
+
+.modal-dialog {max-width: 60%;}
+.modal-dialog .modal-body .btn-close {top: -5px;right: -5px;width: 25px;height: 25px;}
+.modal-dialog .modal-body .btn-close:after {font-size: 15px;top: -8px;}
+.modal-dialog .modal-body .bannerForm h2 {text-align: center;}
+.modal-dialog .modal-body .bannerForm {padding: 2rem;}
+.modal-dialog .modal-body .bannerForm .form-group {margin-bottom: 0.5rem!important;}
+.modal-dialog .modal-body .bannerForm .form-control {height: 40px;}
+.modal-dialog .modal-body .bannerForm textarea {max-height: 70px;}
+.modal-dialog .modal-body .bannerForm .webBtn {font-size: 14px;padding: 7px 20px;}
+.modal-dialog .modal-body .modalContact {padding: 2rem 1rem 0rem 0;}
+.modal-dialog .modal-body .modalContact ul li {margin-bottom: 2rem;}
+.modal-dialog .modal-body .modalContact ul li i {width: 40px;height: 40px;font-size: 20px;padding: 11px 0;margin-bottom: 0.5rem;}
+.modal-dialog .modal-body .modalContact ul li span {font-size: 15px;}
+
+}
+
+/*Medium devices (tablets, less than 992px)*/
+@media only screen and (min-width: 768px) and (max-width: 991px){
+.webBtn ,.webBtn2{font-size: 16px;padding: 10px 20px;}
+header.shrink {padding: 0.5rem 0;}
+header.shrink .logoSec img {width: 90%;}
+header .contactNav li {padding-left: 30px;height: 35px;}
+header .contactNav li:nth-child(1) {margin-right: 25px!important;}
+header .contactNav li img {width: 25px;}
+header .contactNav li h6 {font-size: 16px!important;}
+header .qouteBtn .webBtn {padding: 3px 10px;font-size: 15px;}
+.bannerSec {padding: 2rem 0;}
+.bannerSec .col-md-2 {display: none;}
+.bannerSec .col-md-4 {width: 50%;}
+.bannerSec .bannerCntnt h1 {font-size: 35px;line-height: 40px;margin-bottom: 10px!important;}
+.bannerSec .bannerCntnt h6 {font-size: 18px;line-height: 28px;}
+.bannerSec .bannerCntnt ul li {margin-bottom: 0.3rem;}
+.bannerSec .bannerCntnt {padding-left: 0;}
+.portfolioSec {padding: 3rem 0;}
+.portfolioSec .col-md-6 {width: 80%;}
+.portfolioSec .portfolioHead:before {width: 90px;height: 80px;}
+.portfolioSec .portfolioHead h4 {font-size: 19px;}
+.portfolioSec .portfolioHead h2 {font-size: 28px!important;}
+.portfolioSec .portfolioHead p {font-size: 16px!important;}
+.portfolioSec .portfolioMain .nav-tabs .nav-link {padding: 0.4rem 1.9rem!important;}
+.portfolioSec .portfolio .img-1 {width: 150px;height: 240px;}
+.portfolioSec .portfolio .img-2,.portfolio .img-3 {width: 130px;height: 200px!important;}
+.portfolioSec .portfolio .img-2 {top: 5%;left: 3%;}
+.portfolioSec .portfolio .img-3 {top: 5%;right: 3%;}
+.portfolioSec .portfolio:hover .img-2 {transform: rotate(-5deg);left: -5px;}
+.portfolioSec .portfolio:hover .img-3 {transform: rotate(5deg);right: -5px;}
+.pricingSec {padding: 5rem 0;}
+.pricingSec .secHead h2 {font-size: 30px!important;}
+.pricingSec .pricings {margin-bottom: 1.5rem;}
+.pricingSec .pricings .pricingsHead h6 {transform-origin: 60px 65px;}
+.pricingSec .customPkg {height: 550px;}
+.brandingSec {padding: 3rem 0;}
+.brandingSec .brandingCntnt {margin-bottom: 2rem;}
+.brandingSec .brandingCntnt h2 {font-size: 25px!important;}
+.brandingSec .brandingImgs img {height: 120px;}
+.testimonialSec {padding: 3rem 0 5rem;}
+.testimonialSec .testimonial {height: 200px;}
+.testimonialSec .testImg img {height: 150px;}
+.testimonialSec .slick-arrow:after {width: 40px;height: 40px;font-size: 18px;}
+.testimonialSec .slick-prev {right: 50px;}
+.consultationSec {background-position: center;padding: 3rem 0;}
+.consultationSec .contactFormDet .detail {padding: 1rem;}
+.consultationSec .contactFormDet .detail li {padding-left: 2rem;}
+.consultationSec .contactFormDet .contactForm {padding: 1rem!important;}
+footer .footerLogo img {width: 100%!important;}
+footer .footerCntnt h6 {font-size: 18px!important;}
+footer .footerCntnt p, footer .footerCntnt li a {font-size: 14px;}
+.bottomRow {padding: 12px 0px!important;}
+.bottomRow p, .bottomRow li a {font-size: 14px!important;}
+img#borer {height: 240px;}
+.tns-carousel-label a {font-size: 13px!important;}
+
+.modal-dialog {max-width: 70%;}
+.modal-dialog .modal-body .btn-close {top: -5px;right: -5px;width: 25px;height: 25px;}
+.modal-dialog .modal-body .btn-close:after {font-size: 15px;top: -8px;}
+.modal-dialog .modal-body .bannerForm h2 {text-align: center;}
+.modal-dialog .modal-body .bannerForm {padding: 1rem;}
+.modal-dialog .modal-body .bannerForm .form-group {margin-bottom: 0.5rem!important;}
+.modal-dialog .modal-body .bannerForm .form-control {height: 35px;}
+.modal-dialog .modal-body .bannerForm textarea {max-height: 70px;}
+.modal-dialog .modal-body .bannerForm .webBtn {font-size: 14px;padding: 7px 20px;}
+.modal-dialog .modal-body .modalContact {padding: 2rem 1rem 0rem 0;}
+.modal-dialog .modal-body .modalContact ul li {margin-bottom: 2rem;}
+.modal-dialog .modal-body .modalContact ul li i {width: 35px;height: 35px;font-size: 18px;padding: 11px 0;margin-bottom: 0.5rem;}
+.modal-dialog .modal-body .modalContact ul li span {font-size: 14px;}
+}
+
+/*Small devices (landscape phones, less than 768px)*/
+@media only screen and (min-width: 577px) and (max-width: 767px){
+.webBtn ,.webBtn2{font-size: 16px;padding: 10px 20px;}
+.container{max-width: 100%;}
+header.shrink {padding: 0.5rem 0;}
+header.shrink .logoSec img {width: 90%;}
+header .qouteBtn {display: none;}
+header .contactNav {display: none;}
+header .mobileCntctNav,header .mobileCntctNav .qouteBtn  {display: block;}
+header .qouteBtn .webBtn {padding: 3px 10px;}
+.bannerSec {padding: 2rem 0;}
+.bannerSec .col-md-2 {display: none;}
+.bannerSec .col-md-4 {width: 50%;}
+.bannerSec .bannerCntnt {padding-left: 0;}
+.bannerSec .bannerCntnt h1 {font-size: 28px;line-height: 35px;margin-bottom: 10px!important;}
+.bannerSec .bannerCntnt h6 {font-size: 16px;line-height: 25px;}
+.bannerSec .bannerCntnt ul li {margin-bottom: 0.3rem;}
+.bannerSec .bannerCntnt img {width: 100%;}
+.bannerSec .bannerForm {padding: 1rem 0.5rem;}
+.bannerSec .bannerForm h2 {margin-bottom: 1rem;font-size: 20px;}
+.bannerSec .bannerForm input {height: 35px;font-size: 14px;}
+.bannerSec .bannerForm textarea {font-size: 14px;}
+.bannerSec .bannerForm button {padding: 8px;font-size: 15px;}
+.portfolioSec {padding: 3rem 0;}
+.portfolioSec .col-md-6 {width: 100%;}
+.portfolioSec .portfolioHead:before {width: 90px;height: 80px;}
+.portfolioSec .portfolioHead h4 {font-size: 19px;}
+.portfolioSec .portfolioHead h2 {font-size: 28px!important;}
+.portfolioSec .portfolioMain .nav-tabs .nav-item {margin: 0 0.2rem!important;}
+.portfolioSec .portfolioHead p {font-size: 16px!important;}
+.portfolioSec .portfolioMain .nav-tabs .nav-link {padding: 0.3rem 1.2rem!important;font-size: 13px!important;}
+.portfolioSec .portfolio .img-1 {width: 160px;height: 240px;}
+.portfolioSec .portfolio .img-2,.portfolio .img-3 {width: 150px;height: 220px!important;}
+.portfolioSec .portfolio .img-2 {top: 5%;left: 10%;}
+.portfolioSec .portfolio .img-3 {top: 5%;right: 10%;}
+.portfolioSec .portfolio:hover .img-2 {transform: rotate(-10deg);left: 10px;}
+ .portfolioSec .portfolio:hover .img-3 {transform: rotate(10deg);right: 10px;}
+.counterSec .row {justify-content: center;}
+.counterSec .item {margin-top: 2rem;}
+.pricingSec {padding: 3rem 0;}
+.pricingSec .secHead h2 {font-size: 30px!important;}
+.pricingSec .pricings {margin-bottom: 1.5rem;}
+.pricingSec .pricings .pricingsHead h6 {transform-origin: 45px 54px;}
+.pricingSec .pricings .pricingsBody .pkgBtn {padding: 0.2rem 1rem;font-size: 14px;}
+.pricingSec .customPkg {height: 530px;}
+.brandingSec {padding: 3rem 0;}
+.brandingSec .brandingCntnt {margin-bottom: 2rem;}
+.brandingSec .brandingCntnt h2 {font-size: 25px!important;}
+.brandingSec .brandingImgs img {height: 170px;}
+.testimonialSec {padding: 3rem 0 5rem;}
+.testimonialSec .testimonial {height: 250px;}
+.testimonialSec .testImg img {height: 150px;}
+.testimonialSec .slick-arrow:after {width: 40px;height: 40px;font-size: 18px;}
+.testimonialSec .slick-prev {right: 50px;}
+.consultationSec {background-position: center;padding: 3rem 0;}
+.consultationSec .contactFormDet .row {display: grid!important;}
+.consultationSec .contactFormDet .row .col-md-5 {order: 1;margin-top: 1rem;}
+.consultationSec .contactFormDet .detail {padding: 1rem;}
+.consultationSec .contactFormDet .detail li {padding-left: 2rem;}
+.consultationSec .contactFormDet .contactForm {padding: 1rem!important;}
+footer .footerLogo img {width: 100%!important;}
+footer .footerCntnt h6 {font-size: 22px!important;}
+footer .footerCntnt p, footer .footerCntnt li a {font-size: 14px;}
+.bottomRow {padding: 10px 0px!important;}
+.bottomRow p, .bottomRow li a {font-size: 13px!important;}
+.floatingform-sec {left: -400px;width: 395px;}
+.floatingform-sec .outer-show {width: 45px;height: 220px;left: 395px;}
+.floatingform-sec .outer-show p {font-size: 19px;left: -50px;}
+.floatingform-sec .banner-form {padding: 15px;width: 350px;}
+.floatingform-sec .banner-form h3 {font-size: 30px;padding-bottom: 10px;}
+.floatingform-sec .ban-form input{font-size: 13px;border-radius: 5px;height: 40px;}
+.floatingform-sec .banner-form input[type="submit"] {font-size: 17px;height: auto;padding: 5px;}
+img#borer {height: 87%;}
+.tns-carousel-label a {font-size: 13px!important;}
+.imgslider:before, .imgslider:after{display:none;}
+
+.modal-dialog {max-width: 90%;/* margin-top: 5rem; */}
+.modal-dialog .modal-body .btn-close {top: -5px;right: -5px;width: 25px;height: 25px;}
+.modal-dialog .modal-body .btn-close:after {font-size: 15px;top: -8px;}
+.modal-dialog .modal-body .bannerForm h2 {text-align: center;}
+.modal-dialog .modal-body .bannerForm {padding: 1rem;}
+.modal-dialog .modal-body .bannerForm .form-group {margin-bottom: 0.5rem!important;}
+.modal-dialog .modal-body .bannerForm .form-control {height: 35px;}
+.modal-dialog .modal-body .bannerForm textarea {max-height: 70px;}
+.modal-dialog .modal-body .bannerForm .webBtn {font-size: 14px;padding: 7px 20px;}
+.modal-dialog .modal-body .modalContact {padding: 2rem 1rem 0rem 0;}
+.modal-dialog .modal-body .modalContact ul li {margin-bottom: 2rem;}
+.modal-dialog .modal-body .modalContact ul li i {width: 35px;height: 35px;font-size: 18px;padding: 11px 0;margin-bottom: 0.5rem;}
+.modal-dialog .modal-body .modalContact ul li span {font-size: 14px;}
+}
+
+/*X-Small devices (portrait phones, less than 576px)*/
+@media only screen and (min-width: 381px) and (max-width: 576px){
+.webBtn ,.webBtn2{font-size: 16px;padding: 10px 20px;}
+.container{max-width: 100%;}
+header.shrink {padding: 0.5rem 0;}
+header.shrink .logoSec img {width: 65%;margin: 0 auto;display: table;}
+header .logoSec img {width: 75%;margin: 0 auto;display: table;}
+header .qouteBtn {display: none;}
+header .qouteBtn .webBtn {padding: 3px 10px;}
+header .contactNav {display: none;}
+header .mobileCntctNav {margin-top: 1rem;}
+header .mobileCntctNav,header .mobileCntctNav .qouteBtn  {display: block;}
+header .mobileCntctNav ul {justify-content: center!important;}
+.bannerSec {padding: 2rem 0;}
+.bannerSec .col-md-2 {display: none;}
+.bannerSec .col-md-4 {/* width: 50%; */}
+.bannerSec .bannerCntnt {padding-left: 0;}
+.bannerSec .bannerCntnt h1 {font-size: 35px;line-height: 45px;margin-bottom: 15px!important;}
+.bannerSec .bannerCntnt h6 {font-size: 19px;line-height: 30px;}
+.bannerSec .bannerCntnt ul li {margin-bottom: 0.3rem;}
+.bannerSec .bannerCntnt .webBtn2 {margin-bottom: 2rem!important;}
+.bannerSec .bannerCntnt img {width: 100%;}
+.bannerSec .bannerForm {padding: 2rem 1rem;margin-top: 4rem;}
+.bannerSec .bannerForm h2 {margin-bottom: 2rem;font-size: 25px;}
+.bannerSec .bannerForm input {height: 40px;font-size: 15px;}
+.bannerSec .bannerForm textarea {font-size: 14px;}
+.bannerSec .bannerForm button {padding: 8px;font-size: 15px;}
+.portfolioSec {padding: 3rem 0;}
+.portfolioSec .col-md-6 {width: 100%;}
+.portfolioSec .portfolioHead:before {width: 90px;height: 80px;}
+.portfolioSec .portfolioHead h4 {font-size: 19px;}
+.portfolioSec .portfolioHead h2 {font-size: 28px!important;}
+.portfolioSec .portfolioMain .nav-tabs .nav-item {margin: 0 0.2rem 1rem!important;}
+.portfolioSec .portfolioHead p {font-size: 16px!important;}
+.portfolioSec .portfolioMain .nav-tabs .nav-link {padding: 0.4rem 2rem!important;font-size: 13px!important;}
+.portfolioSec .portfolio .img-1 {width: 190px;height: 290px;}
+.portfolioSec .portfolio .img-2,.portfolio .img-3 {width: 190px;height: 250px!important;}
+.portfolioSec .portfolio .img-2 {top: 5%;left: 12%;}
+.portfolioSec .portfolio .img-3 {top: 5%;right: 12%;}
+.counterSec .row {justify-content: center;}
+.counterSec .item {margin-top: 2rem;}
+.pricingSec {padding: 3rem 0;}
+.pricingSec .secHead h2 {font-size: 30px!important;}
+.pricingSec .pricings {margin-bottom: 1.5rem;}
+.pricingSec .pricings .pricingsHead h6 {transform-origin: 75px 75px;}
+.pricingSec .pricings .pricingsBody .pkgBtn {padding: 0.2rem 1rem;font-size: 14px;}
+.pricingSec .customPkg {height: 530px;}
+.brandingSec {padding: 3rem 0;}
+.brandingSec .brandingCntnt {margin-bottom: 2rem;}
+.brandingSec .brandingCntnt h2 {font-size: 25px!important;}
+.brandingSec .brandingImgs img {height: 120px;}
+.testimonialSec {padding: 3rem 0 5rem;}
+.testimonialSec .testimonial {height: 400px;}
+.testimonialSec .testImg img {height: 100px;width: 100px;margin: 0 auto 1rem;}
+.testimonialSec .slick-arrow:after {width: 40px;height: 40px;font-size: 18px;}
+.testimonialSec .slick-prev {right: 50px;}
+.consultationSec {background-position: center;padding: 3rem 0;}
+.consultationSec .contactFormDet .row {display: grid!important;}
+.consultationSec .contactFormDet .row .col-md-5 {order: 1;margin-top: 1rem;}
+.consultationSec .contactFormDet .detail {padding: 1rem;}
+.consultationSec .contactFormDet .detail li {padding-left: 2rem;}
+.consultationSec .contactFormDet .contactForm {padding: 1rem!important;}
+footer {padding: 3rem 0 1rem;}
+footer .footerLogo img {width: 70%!important;}
+footer .footerCntnt {margin-bottom: 3rem;}
+footer .footerCntnt h6 {font-size: 22px!important;}
+footer .footerCntnt p, footer .footerCntnt li a {font-size: 16px;}
+.bottomRow {padding: 10px 0px!important;}
+.bottomRow .priList ul {justify-content: center;}
+.bottomRow .copyrightSec {justify-content: center!important;margin: 1rem 0 0 0;}
+.bottomRow p, .bottomRow li a {font-size: 13px!important;}
+.floatingform-sec {display: none;}
+.ctaBtn i {width: 40px;height: 40px;font-size: 18px;padding: 10px 0;}
+img#borer {height: 77%;}
+.tns-carousel-label a {font-size: 13px!important;}
+.imgslider:before, .imgslider:after{display:none;}
+
+.modal-dialog {max-width: 90%;/* margin-top: 5rem; */}
+.modal-dialog .modal-body .btn-close {top: -5px;right: -5px;width: 25px;height: 25px;}
+.modal-dialog .modal-body .btn-close:after {font-size: 15px;top: -8px;}
+.modal-dialog .modal-body .bannerForm h2 {text-align: center;}
+.modal-dialog .modal-body .bannerForm {padding: 1rem;}
+.modal-dialog .modal-body .bannerForm .form-group {margin-bottom: 0.5rem!important;}
+.modal-dialog .modal-body .bannerForm .form-control {height: 35px;}
+.modal-dialog .modal-body .bannerForm textarea {max-height: 70px;}
+.modal-dialog .modal-body .bannerForm .webBtn {font-size: 14px;padding: 7px 20px;}
+.modal-dialog .modal-body .modalContact {padding: 2rem 1rem 0rem 0;}
+.modal-dialog .modal-body .modalContact ul li {margin-bottom: 2rem;}
+.modal-dialog .modal-body .modalContact ul li i {width: 35px;height: 35px;font-size: 18px;padding: 11px 0;margin-bottom: 0.5rem;}
+.modal-dialog .modal-body .modalContact ul li span {font-size: 14px;}
+
+}
+@media only screen and (min-width: 300px) and (max-width: 380px){
+.webBtn ,.webBtn2{font-size: 16px;padding: 10px 20px;}
+.container{max-width: 100%;}
+header.shrink {padding: 0.5rem 0;}
+header.shrink .logoSec img {width: 65%;margin: 0 auto;display: table;}
+header .logoSec img {width: 75%;margin: 0 auto;display: table;}
+header .qouteBtn {display: none;}
+header .qouteBtn .webBtn {padding: 3.5px 7px;font-size: 15px;}
+header .contactNav {display: none;}
+header .mobileCntctNav {margin-top: 1rem;}
+header .mobileCntctNav,header .mobileCntctNav .qouteBtn  {display: block;}
+header .mobileCntctNav ul {justify-content: center!important;}
+.bannerSec {padding: 2rem 0;}
+.bannerSec .col-md-2 {display: none;}
+.bannerSec .bannerCntnt {padding-left: 0;}
+.bannerSec .bannerCntnt h1 {font-size: 30px;line-height: 36px;margin-bottom: 15px!important;}
+.bannerSec .bannerCntnt h6 {font-size: 17px;line-height: 28px;}
+.bannerSec .bannerCntnt ul li {margin-bottom: 0.3rem;}
+.bannerSec .bannerCntnt .webBtn2 {margin-bottom: 2rem!important;}
+.bannerSec .bannerCntnt img {width: 100%;}
+.bannerSec .bannerForm {padding: 2rem 1rem;margin-top: 4rem;}
+.bannerSec .bannerForm h2 {margin-bottom: 2rem;font-size: 25px;}
+.bannerSec .bannerForm input {height: 40px;font-size: 15px;}
+.bannerSec .bannerForm textarea {font-size: 14px;}
+.bannerSec .bannerForm button {padding: 8px;font-size: 15px;}
+.portfolioSec {padding: 3rem 0;}
+.portfolioSec .col-md-6 {width: 100%;}
+.portfolioSec .portfolioHead:before {width: 90px;height: 80px;}
+.portfolioSec .portfolioHead h4 {font-size: 19px;}
+.portfolioSec .portfolioHead h2 {font-size: 28px!important;}
+.portfolioSec .portfolioMain .nav-tabs .nav-item {margin: 0 0.2rem 1rem!important;}
+.portfolioSec .portfolioHead p {font-size: 16px!important;}
+.portfolioSec .portfolioMain .nav-tabs .nav-link {padding: 0.4rem 2rem!important;font-size: 13px!important;}
+.portfolioSec .portfolio .img-1 {width: 170px;height: 270px;}
+.portfolioSec .portfolio .img-2,.portfolio .img-3 {width: 170px;height: 230px!important;}
+.portfolioSec .portfolio .img-2 {top: 5%;left: 12%;}
+.portfolioSec .portfolio .img-3 {top: 5%;right: 12%;}
+.counterSec .row {justify-content: center;}
+.counterSec .item {margin-top: 2rem;}
+.pricingSec {padding: 3rem 0;}
+.pricingSec .secHead h2 {font-size: 30px!important;}
+.pricingSec .pricings {margin-bottom: 1.5rem;}
+.pricingSec .pricings .pricingsHead h6 {transform-origin: 64px 70px;}
+.pricingSec .pricings .pricingsBody .pkgBtn {padding: 0.2rem 1rem;font-size: 14px;}
+.pricingSec .customPkg {height: 530px;}
+.brandingSec {padding: 3rem 0;}
+.brandingSec .brandingCntnt {margin-bottom: 2rem;}
+.brandingSec .brandingCntnt h2 {font-size: 25px!important;}
+.brandingSec .brandingImgs img {height: 120px;}
+.testimonialSec {padding: 3rem 0 5rem;}
+.testimonialSec .testimonial {height: 450px;margin: 0 0.5rem;}
+.testimonialSec .testImg img {height: 100px;width: 100px;margin: 0 auto 1rem;}
+.testimonialSec .slick-arrow:after {width: 40px;height: 40px;font-size: 18px;}
+.testimonialSec .slick-prev {right: 50px;}
+.consultationSec {background-position: center;padding: 3rem 0;}
+.consultationSec .contactFormDet .row {display: grid!important;}
+.consultationSec .contactFormDet .row .col-md-5 {order: 1;margin-top: 1rem;}
+.consultationSec .contactFormDet .detail {padding: 1rem;}
+.consultationSec .contactFormDet .detail li {padding-left: 2rem;}
+.consultationSec .contactFormDet .contactForm {padding: 1rem!important;}
+footer {padding: 3rem 0 1rem;}
+footer .footerLogo img {width: 90%!important;}
+footer .footerCntnt {margin-bottom: 3rem;}
+footer .footerCntnt h6 {font-size: 22px!important;}
+footer .footerCntnt p, footer .footerCntnt li a {font-size: 16px;}
+.bottomRow {padding: 10px 0px!important;}
+.bottomRow .priList ul {justify-content: center;}
+.bottomRow .copyrightSec {justify-content: center!important;margin: 1rem 0 0 0;}
+.bottomRow p, .bottomRow li a {font-size: 13px!important;}
+.floatingform-sec {display: none;}
+.ctaBtn i {width: 40px;height: 40px;font-size: 18px;padding: 10px 0;}
+.frame {padding: 1rem 0;margin: 5px;}
+.frame-browser-toolbar {top: -11px;left: 11%;}
+img#borer {height: 77%;}
+.tns-carousel-label a {font-size: 11px!important;}
+.imgslider:before, .imgslider:after{display:none;}
+
+.modal-dialog {max-width: 100%;margin-top: 5rem;}
+.modal-dialog .modal-body .btn-close {top: -5px;right: -5px;width: 25px;height: 25px;}
+.modal-dialog .modal-body .btn-close:after {font-size: 15px;top: -8px;}
+.modal-dialog .modal-body .bannerForm h2 {text-align: center;}
+.modal-dialog .modal-body .bannerForm {padding: 1rem;}
+.modal-dialog .modal-body .bannerForm .form-group {margin-bottom: 0.5rem!important;}
+.modal-dialog .modal-body .bannerForm .form-control {height: 35px;}
+.modal-dialog .modal-body .bannerForm textarea {max-height: 70px;}
+.modal-dialog .modal-body .bannerForm .webBtn {font-size: 14px;padding: 7px 20px;}
+.modal-dialog .modal-body .modalContact {padding: 2rem 1rem;}
+.modal-dialog .modal-body .modalContact ul li {margin-bottom: 2rem;}
+.modal-dialog .modal-body .modalContact ul li i {width: 35px;height: 35px;font-size: 18px;padding: 11px 0;margin-bottom: 0.5rem;}
+.modal-dialog .modal-body .modalContact ul li span {font-size: 16px;}
+
+}
+
+
